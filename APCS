@@ -1,0 +1,16 @@
+class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello world!");
+
+//String problems
+    word1 = "Hello";
+    //Hello has 5 characters, counting 0
+    tempString1 = "He";
+    tempString2 = "ll";
+    tempString3 = "o";
+    //Simple addition of characters
+    finalWord = tempString1 + tempString2 + tempString3;
+    System.out.print(finalWord);
+
+  }
+}
